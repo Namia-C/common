@@ -323,7 +323,7 @@ src-git danshui1 https://github.com/Namia-Q/openwrt-package.git;${SOURCE}
 src-git helloworld https://github.com/fw876/helloworld.git
 src-git passwall3 https://github.com/xiaorouji/openwrt-passwall-packages;main
 
-src-git kiddin9 https://github.com/kiddin9/openwrt-packages;master
+src-git kiddin9 https://github.com/Namia-Q/openwrt-packages;master
 
 
 EOF
