@@ -1,6 +1,6 @@
 #!/bin/bash
 # https://github.com/Namia-Q/OpenWrt-X
-# common Module by Namia-Qc
+# common Module by Namia-Q
 # matrix.target=${FOLDER_NAME}
 
 ACTIONS_VERSION="1.0.7"
@@ -322,7 +322,6 @@ cat >>"feeds.conf.default" <<-EOF
 src-git danshui1 https://github.com/Namia-Q/openwrt-package.git;${SOURCE}
 src-git helloworld https://github.com/fw876/helloworld.git
 src-git passwall3 https://github.com/xiaorouji/openwrt-passwall-packages;main
-
 EOF
 ./scripts/feeds update -a
 
