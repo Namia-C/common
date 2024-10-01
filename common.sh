@@ -324,7 +324,7 @@ src-git danshui1 https://github.com/Namia-Q/openwrt-package.git;${SOURCE}
 src-git helloworld https://github.com/fw876/helloworld.git
 src-git passwall3 https://github.com/xiaorouji/openwrt-passwall-packages;main
 src-git small https://github.com/kenzok8/small;master
-https://github.com/4IceG/luci-app-3ginfo-lite
+src-git 3g https://github.com/4IceG/luci-app-3ginfo-lite;main
 
 
 EOF
