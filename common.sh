@@ -325,6 +325,7 @@ src-git helloworld https://github.com/fw876/helloworld.git
 src-git passwall3 https://github.com/xiaorouji/openwrt-passwall-packages;main
 src-git small https://github.com/kenzok8/small;master
 src-git 3g https://github.com/4IceG/luci-app-3ginfo-lite;main
+src-git 5g https://github.com/Siriling/5G-Modem-Support;main
 
 
 EOF
