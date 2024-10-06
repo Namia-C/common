@@ -327,7 +327,7 @@ src-git small https://github.com/kenzok8/small;master
 
 src-git 5g https://github.com/Siriling/5G-Modem-Support;main
 src-git namia https://github.com/kenzok8/small-package;main
-
+src-git namia https://github.com/kenzok8/jell;main
 EOF
 ./scripts/feeds update -a
 
