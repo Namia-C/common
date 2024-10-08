@@ -324,11 +324,7 @@ src-git danshui1 https://github.com/Namia-Q/openwrt-package.git;${SOURCE}
 src-git helloworld https://github.com/fw876/helloworld.git
 src-git passwall3 https://github.com/xiaorouji/openwrt-passwall-packages;main
 src-git namia https://github.com/Namia-Q/X-packages;main
-
-src-git 1 https://github.com/openwrt/openwrt/trunk/package/libs/libnl-tiny;main
-src-git 2 https://github.com/openwrt/openwrt/trunk/package/kernel/mac80211;main
-src-git 3 https://github.com/DHDAXCW/lede-rockchip/trunk/package/kernel/mt76;main
-src-git 4 https://github.com/openwrt/openwrt/trunk/package/network/services/hostapd;main
+src-git namia2 https://github.com/Namia-Q/mt76;master
 
 EOF
 ./scripts/feeds update -a
