@@ -324,7 +324,7 @@ src-git danshui1 https://github.com/Namia-Q/openwrt-package.git;${SOURCE}
 src-git helloworld https://github.com/fw876/helloworld.git
 
 src-git passwall3 https://github.com/xiaorouji/openwrt-passwall-packages;main
-src-git namia1 https://github.com/sbwml/package_kernel_mac80211.git
+src-git namia1 https://github.com/sbwml/package_kernel_mac80211;main
 src-git namia2 https://github.com/Siriling/5G-Modem-Support;main
 src-git namia3 https://github.com/kenzok8/small;main
 src-git namia4 https://github.com/kenzok8/jell;main
