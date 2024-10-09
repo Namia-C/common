@@ -324,7 +324,7 @@ src-git danshui1 https://github.com/Namia-Q/openwrt-package.git;${SOURCE}
 src-git helloworld https://github.com/fw876/helloworld.git
 src-git passwall3 https://github.com/xiaorouji/openwrt-passwall-packages;main
 src-git namia https://github.com/Namia-Q/X-packages;main
-src-git namia2 https://github.com/Namia-Q/mt76;master
+src-git namia2 https://github.com/sbwml/package_kernel_mac80211.git
 
 EOF
 ./scripts/feeds update -a
