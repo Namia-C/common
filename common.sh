@@ -322,8 +322,8 @@ cat >>"feeds.conf.default" <<-EOF
 src-git danshui1 https://github.com/Namia-Q/openwrt-package.git;${SOURCE}
 src-git helloworld https://github.com/fw876/helloworld.git
 src-git passwall3 https://github.com/xiaorouji/openwrt-passwall-packages;main
-src-git kernel https://github.com/sbwml/package_kernel_mac80211;main
-src-git kenzok1 https://github.com/kenzok8/small;main
+src-git kernel https://github.com/sbwml/package_kernel_mac80211.git
+src-git kenzok1 https://github.com/kenzok8/small;master
 src-git kenzok2 https://github.com/kenzok8/small-package;main
 src-git 5g https://github.com/Siriling/5G-Modem-Support;main
 
